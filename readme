@@ -1,1 +1,5 @@
-// Hello
+Per comprovar funcionament amb Postman:
+Posar en "run" la "App"
+Obrir XAMPP (Tomcat no cal, l'arranca una de les dependències automàticament)
+Obrir la consola de la bbdd que toqui: MySQL Workbench, H2 (via url) ó MongoDB Compass
+Obrir la bbdd
